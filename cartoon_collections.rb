@@ -19,4 +19,5 @@ def find_the_cheese(ingredients)
     ingredients[index]
   else
     NIL
+  end
 end
